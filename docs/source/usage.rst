@@ -6,7 +6,10 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+You need a license to run AWTRIX HD
+https://blueforcer.gumroad.com/l/awtrixhd
+As one of the alpha tester (limited seats) you will get a 100% coupon if you want. -> PM me
+You can also buy a license to support the development. Minimum value is 10€.
 
 .. code-block:: console
 
